@@ -23,25 +23,147 @@ Grading Information
 
 The weights for the final grade are as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem set 1 | 20% |
-| Problem set 2 | 25% |
-| Problem set 3 | 30% |
-| Class presentations | 15% |
-| Preparation and presentation to the BRA | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preparation and presentation to the BRA
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The following scores, which will be weighted and averaged for the term, will be given on the problem sets.
 
-| RANGES | SCORES |
-| --- | --- |
-| 95-100 | A |
-| 90-94 | A- |
-| 85-89 | B+ |
-| 80-84 | B |
-| 75-79 | B- |
-| 70-74 | C+ |
-| 65-69 | C 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+RANGES
+{{< thclose >}}
+{{< thopen >}}
+SCORES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+95-100
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+90-94
+{{< tdclose >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+85-89
+{{< tdclose >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+80-84
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+75-79
+{{< tdclose >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+70-74
+{{< tdclose >}}
+{{< tdopen >}}
+C+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+65-69
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Suggested Books to Purchase
 ---------------------------
