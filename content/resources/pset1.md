@@ -4,6 +4,7 @@ description: Problem set on simulation in regional and urban economics, and econ
   analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/2b4b1b6063a3e45c6f7794d90ee0da48_pset1.pdf
 file_type: application/pdf
+parent_uid: e33332f4-bff5-ae89-1973-e5e34a516d97
 resourcetype: Document
 title: 'Problem Set #1: Introduction to Simulation in Regional and Urban Economics:
   Economic-Base Analysis'
