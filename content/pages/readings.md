@@ -64,7 +64,7 @@ Background on regional modeling and modeling assumptions/economic base studies
 
 Fingleton, Bernard, Danilo Camargo Igliori, and Barry Moore. "Employment Growth of Small High-technology Firms and the Role of Horizontal Clustering: Evidence from Computing Services and R&D in Great Britain, 1991-2000." _Urban Studies_ 41, no. 4 (2004): 773-799.
 
-Smirnov, Oleg, and Alena Smirnova. "An Assessment of the Economic Base of Distressed and Near-Distressed Counties in Appalachia: Report to the Appalachian Regional Commission (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](https://trid.trb.org/view/364568))." Bruton Center for Development Studies, The University of Texas at Dallas, 2000.
+Smirnov, Oleg, and Alena Smirnova. "An Assessment of the Economic Base of Distressed and Near-Distressed Counties in Appalachia: Report to the Appalachian Regional Commission ([PDF - 1.3MB](https://trid.trb.org/view/364568))." Bruton Center for Development Studies, The University of Texas at Dallas, 2000.
 
 Andersson, Ake, and David F. Batten. "Creative Nodes, Logistical Networks, and the Future of the Metropolis." _Transportation_ 14, no. 4 (1987): 281-293.
 
@@ -145,10 +145,10 @@ Dietzenbacher, Erik. "Interregional Multipliers: Looking Backward, Looking Forwa
 Stevens, Benjamin, and Michael Lahr. "Regional Economic Multipliers: Definition, Measurement, and Application." _Economic Development Quarterly_ 2, no. 1 (1988): 88-96.
 
 Weisbrod, Glen E., and James Beckwith. "Measuring Economic Development Benefits for Highway Decision-making: The Wisconsin Case." _Transportation Quarterly_ 46, no. 1 (1992): 57-79.  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.ebp-us.com/en/projects/measuring-economic-development-benefits-highway-decision-making-wisconsin-case))
+([PDF](https://www.ebp-us.com/en/projects/measuring-economic-development-benefits-highway-decision-making-wisconsin-case))
 
 Weisbrod, Glen. "Evolution of Methods for Assessing Economic Development Impacts of Proposed Transportation Projects." Paper presented at the 3rd International Conference on Transportation and Economic Development, PLACE, March 2006.  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.ebp-us.com/en/projects/evolution-methods-assessing-economic-development-impacts-transportation))
+([PDF](https://www.ebp-us.com/en/projects/evolution-methods-assessing-economic-development-impacts-transportation))
 
 Isserman, Andrew, and Terance Rephann. "The Economic Effects of the Appalachian Regional Commission: An Empirical Assessment of 26 Years of Regional Development Planning." _Journal of the American Planning Association_ 61, no. 3 (1995): 345-364.
 
@@ -161,7 +161,7 @@ Wilbur Smith Associates. "Appalachian Development Highways Economic Impact Studi
 
 Polenske, Karen R. "Current Uses of the RAS Technique: A Critical Review." In _Price, Growth, and Cycles_. Edited by Andras Brody, Andras Simonovits and Albert Steenge. London, England: Palgrave Macmillan, 1997, pp. 58-88. ISBN: 9780333641651.
 
-Weisbrod, Glen, and Burton Weisbrod. "Measuring Economic Impacts of Projects and Programs." Economic Development Research Group, Boston, MA, 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.edrgroup.com/images/stories/Transportation/econ-impact-primer.pdf))
+Weisbrod, Glen, and Burton Weisbrod. "Measuring Economic Impacts of Projects and Programs." Economic Development Research Group, Boston, MA, 1997. ([PDF](http://www.edrgroup.com/images/stories/Transportation/econ-impact-primer.pdf))
 
 Jensen, R. C., and G. R. West. "The Effect of Relative Coefficient Size on Input-Output Multipliers." _Environment and Planning A_ 12, no. 8 (1980): 927-936.
 
@@ -214,7 +214,7 @@ Mohnen, Pierre. "Productivity Trends and Employment Across Industries in Canada.
 
 Wallsten, Scott J. "An Empirical Test of Geographic Knowledge Spillovers Using Geographic Information Systems and Firm-level Data." _Regional Science and Urban Economics_ 31, no. 5 (2001): 571-599.
 
-Anselin, Luc, Ibnu Syabri, and Youngihn Kho. "GeoDa: An Introduction to Spatial Data Analysis." Working paper, Spatial Analysis Laboratory, University of Illinois, Urbana-Champaign, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://geodacenter.asu.edu/pdf/geodaGA.pdf))
+Anselin, Luc, Ibnu Syabri, and Youngihn Kho. "GeoDa: An Introduction to Spatial Data Analysis." Working paper, Spatial Analysis Laboratory, University of Illinois, Urbana-Champaign, 2004. ([PDF](http://geodacenter.asu.edu/pdf/geodaGA.pdf))
 
 
 {{< tdclose >}}
